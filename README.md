@@ -53,17 +53,14 @@ I enjoy turning an idea into a working prototype, testing the assumptions behind
 <p align="center">
   <img src="./assets/field.svg" width="100%" alt="FIELD — private project." />
   <img src="./assets/aerogrid.svg" width="100%" alt="AeroGrid — private project." />
+  <a href="https://github.com/ahmetft-dev/PathForge">
+    <img
+      src="./assets/pathforge.svg"
+      width="100%"
+      alt="PathForge — Project #003 | Public"
+    />
+  </a>
 </p>
-
-
-<a href="https://github.com/ahmetft-dev/PathForge">
-  <img
-    src="./assets/pathforge.svg"
-    width="100%"
-    alt="PathForge — Project #003 | Public"
-  />
-</a>
-
 
 <p align="center">
   <img src="./assets/footer.svg" width="100%" alt="Stay curious. Build deliberately. ahmetft-dev" />
