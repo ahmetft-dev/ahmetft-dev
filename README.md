@@ -1,7 +1,7 @@
 <!--
 GitHub profile / ahmetft-dev
 All artwork is locally hosted. No third-party stats or tracking widgets.
-Private projects are listed by name only. Do not add internal details or private links.
+FIELD and AeroGrid are listed by name only. Never add internal details or private links.
 -->
 
 <p align="center">
@@ -47,18 +47,14 @@ I enjoy turning an idea into a working prototype, testing the assumptions behind
 <a id="selected-work"></a>
 
 <p align="center">
-  <img src="./assets/projects-heading.svg" width="100%" alt="Selected work. Project names only; code and details are private." />
+  <img src="./assets/projects-heading.svg" width="100%" alt="Selected work: two private projects and one public repository." />
 </p>
 
 <p align="center">
   <img src="./assets/field.svg" width="100%" alt="FIELD — private project." />
   <img src="./assets/aerogrid.svg" width="100%" alt="AeroGrid — private project." />
   <a href="https://github.com/ahmetft-dev/PathForge">
-    <img
-      src="./assets/pathforge.svg"
-      width="100%"
-      alt="PathForge — Project #003 | Public"
-    />
+    <img src="./assets/pathforge.svg" width="100%" alt="PathForge — project 003; public repository (planning / pre-alpha)." />
   </a>
 </p>
 
